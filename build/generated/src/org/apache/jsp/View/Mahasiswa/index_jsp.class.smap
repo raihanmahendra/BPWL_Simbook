@@ -1,0 +1,20 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 Header.jsp
+View/Mahasiswa/Header.jsp
++ 1 index.jsp
+View/Mahasiswa/index.jsp
++ 2 Footer.jsp
+View/Mahasiswa/Footer.jsp
+*L
+5,25:50
+29,200:75
+229:275,3
+230,55:278
+1#1,52:332
+5#2,20:384
+52#1:404
+*E

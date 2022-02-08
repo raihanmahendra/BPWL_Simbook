@@ -1,0 +1,21 @@
+SMAP
+TableBarang_jsp.java
+JSP
+*S JSP
+*F
++ 0 TableBarang.jsp
+View/Teknisi/TableBarang.jsp
++ 1 Header.jsp
+View/Teknisi/Header.jsp
++ 2 Footer.jsp
+View/Teknisi/Footer.jsp
+*L
+5,3:50
+5#1,25:53
+29,200:78
+229:278,3
+230,55:281
+7#0,118:335
+5#2,20:453
+124#0:473
+*E
